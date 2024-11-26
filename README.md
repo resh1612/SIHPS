@@ -37,11 +37,11 @@ Career Insights: Aggregate alumni career data for institutional improvement.
 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](<WhatsApp Image 2024-11-26 at 15.03.05_e609d5f4.jpg>)
+C:\Users\balaj\OneDrive\Desktop\2nd pic.jpg
 
 
 ## Use Cases
-![alt text](<WhatsApp Image 2024-11-26 at 15.03.05_6b6f1d23.jpg>)
+C:\Users\balaj\OneDrive\Desktop\1st pic.jpg
 
 
 ## Technology Stack
