@@ -37,11 +37,14 @@ Career Insights: Aggregate alumni career data for institutional improvement.
 
 
 ## Proposed Solution / Architecture Diagram
-C:\\Users\\balaj\\OneDrive\\Desktop\\2nd pic.jpg
+![2nd pic](https://github.com/user-attachments/assets/2a22786f-24d2-49f3-9a66-f469ca0685d8)
+
+
 
 
 ## Use Cases
-C:\Users\balaj\OneDrive\Desktop\1st pic.jpg
+![1st pic](https://github.com/user-attachments/assets/d4407d7d-4d83-43d5-8556-ac04c119744f)
+
 
 
 ## Technology Stack
