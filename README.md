@@ -37,7 +37,7 @@ Career Insights: Aggregate alumni career data for institutional improvement.
 
 
 ## Proposed Solution / Architecture Diagram
-C:\Users\balaj\OneDrive\Desktop\2nd pic.jpg
+C:\\Users\\balaj\\OneDrive\\Desktop\\2nd pic.jpg
 
 
 ## Use Cases
